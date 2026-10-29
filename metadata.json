@@ -1,0 +1,6 @@
+{
+  "name": "Planora AI — Smart Celebration & Event Planner",
+  "description": "AI-powered celebration and event planner tailoring budgets in INR, custom themes, timeline checklists, and vendor-neutral estimates.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
